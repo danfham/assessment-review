@@ -1,0 +1,15 @@
+/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
+.image-format{ 
+    height: 300px;
+    border: 25px;
+    border-radius: 1px;
+}
+
+/* add code here to change the color and font family of your band's name/title */
+.title-format{
+    font: small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+}
+
+/* Bonus: change the color of your list elements */
