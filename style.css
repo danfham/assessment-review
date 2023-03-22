@@ -8,7 +8,6 @@
 /* add code here to change the color and font family of your band's name/title */
 .title-format{
     font: small-caps;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: aqua;
 }
 
